@@ -65,3 +65,6 @@ Then run the Jupyter notebook AdvanceML_Q2.ipynb.
 - Use more descriptive label prompts
 
 - Evaluate with full dataset
+
+## Crreated By 
+**Lovy Verma**
