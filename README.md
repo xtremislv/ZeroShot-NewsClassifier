@@ -66,5 +66,5 @@ Then run the Jupyter notebook AdvanceML_Q2.ipynb.
 
 - Evaluate with full dataset
 
-## Crreated By 
+## Created By 
 **Lovy Verma**
